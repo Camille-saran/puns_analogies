@@ -1,6 +1,7 @@
 # puns_analogies
 The current repository contains the data, code and results of Puns analogies project.
 It was realised by the group punalogy [Maeva][Louis][Abir][Camille] for the 2022-2023 Software Project (UE905 EC1) at IDMC (Nancy), under the supervision of Esteban Marquer and Miguel Couceiro.
+You can find our reddit count here : https://www.reddit.com/user/meme_pun
 
 ## Abstract
 Punalogy is a generator of puns based on analogical templates. Punalogy takes a word as input and generates a pun by substituting a part of the word with a homophone or a similar-sounding word. For example, given the input "mango," Punalogy might generate the pun "man is to mango as woman is to womango." In addition to generating the pun, Punalogy also creates a meme using a template and existing image generation models.
