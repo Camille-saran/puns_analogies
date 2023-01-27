@@ -54,22 +54,10 @@ To run this project using the existing models, run the following after replacing
 python main.py [file to process.txt]
 ```
 
-### Reproduce the experiments mentionned in the report
-To reproduce the experiments mentionned in the report, run the following commands:
-```bash
-python experiment1.py
-python experiment2.py
-```
-
 ## Repository structure
 - [`README-example.md`](/README-example.md): this file.
 - [`main.py`](/main.py): Python script for training the models.
 - [`experiment1.py`](/experiment1.py): Python script to run the experiment on the synthetic data, mentionned in section 4.2. of the report.
-- [`experiment2.py`](/experiment2.py): Python script to run the experiment on the real-world data from ..., mentionned in section 4.4. of the report.
-- [`report/`](/report/): folder for project report PDF `Final_report-My_Awesome_Readme.pdf`.
-- [`presentations/`](/presentations/): folder containing all the intermediate presentations as PDF (must be updated before each presentation session). Each file is labled using the template `[date]-Presentation_[presentation number]-My_Awesome_Readme.pdf`. *This template is my personal preference. You can use your own, as long as it is clear from the name which presentation corresponds to which file.*
-- [`results/`](/results/): folder containing all the results generated during the project.
-    - [`results/models/`](/results/models/): folder containing the models trained during the project.
-    - [`results/plots/`](/results/plots/): folder containing the plots describing the performance and the experiments.
-    - [`results/solutions/`](/results/solutions/): folder containing the solutions to the Ultimate Question of Life, The Universe, and Everything.
-- [`articles/`](/articles/): folder containing all the articles read or mentioned in the report, as PDFs. Each file is labled using the template `[article topic]-[publication year]-[authors' last names].pdf`; if more than 3 authors are present, `[authors' last names]` is replaced by `[first author's last name]-et-al` instead. *This template is my personal preference. You can use your own, as long as it is clear from the name which paper corresponds to which file.*
+- [`presentations/`](/presentations/): Intermediate presentations as PDF. Each file is labled using the template `[date]-Presentation_[presentation number]'
+- [`results/`](/results/): Results generated during the project.
+- [`articles/`](/articles/): Articles read or mentioned in the report, as PDFs. Each file is labeled using the template `[article topic]-[publication year]-[authors' last names].pdf`.
