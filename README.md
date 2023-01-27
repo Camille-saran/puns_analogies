@@ -29,5 +29,5 @@ To run this project just open the program into Google Colab. You will have to en
 - [`README-example.md`](/README-example.md): this file.
 - [`experiment1.py`](/experiment1.py): Python script to run the experiment on the synthetic data, mentionned in section 4.2. of the report.
 - [`presentations/`](/presentations/): Intermediate presentations as PDF. Each file is labled using the template `[date]-Presentation_[presentation number]'
-- [`results/`](/results/): Results generated during the project.
+- [`results/`](/results/): Result of meme evaluation of human project.
 - [`articles/`](/articles/): Articles read or mentioned in the report, as PDFs. Each file is labeled using the template `[article topic]-[publication year]-[authors' last names].pdf`.
