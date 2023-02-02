@@ -21,14 +21,3 @@ To setup the project, you have to:
 
 ### Dataset
 Download the shortjokes data on Kaggle, available here : https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes
-
-## Usage instructions
-### Basic usage
-To run this project just open the program into Google Colab. You will have to enter your own hugging face token and your own path to the shortjokes dataset.
-
-## Repository structure
-- [`README-example.md`](/README-example.md): this file.
-- [`experiment1.py`](/experiment1.py): Python script to run the experiment on the synthetic data, mentionned in section 4.2. of the report.
-- [`presentations/`](/presentations/): Intermediate presentations as PDF. Each file is labled using the template `[date]-Presentation_[presentation number]'
-- [`results/`](/results/): Result of meme evaluation of human project.
-- [`articles/`](/articles/): Articles read or mentioned in the report, as PDFs. Each file is labeled using the template `[article topic]-[publication year]-[authors' last names].pdf`.
