@@ -18,6 +18,7 @@ To setup the project, you have to:
 1. Download program notebook;
 2. Get a ID token for Hugging Face;
 3. Download the dataset, and meme template.
+4. Run the program on Google Notebook
 
 ### Dataset
 Download the shortjokes data on Kaggle, available here : https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes
