@@ -6,11 +6,6 @@ You can find our reddit account here : https://www.reddit.com/user/meme_pun
 ## Abstract
 Punalogy is a generator of puns based on analogical templates. Punalogy takes a word as input and generates a pun by substituting a part of the word with a homophone or a similar-sounding word. For example, given the input "mango," Punalogy might generate the pun "man is to mango as woman is to womango." In addition to generating the pun, Punalogy also creates a meme using a template and existing image generation models.
 
-## Content
-- [Instructions](#install-instructions)
-- [Usage instructions](#usage-instruction)
-- [Repository structure](#repository-structure)
-
 ## Instructions
 
 This project was designed and tested using Python 3.10 on Google Collab.
@@ -22,3 +17,6 @@ To setup the project, you have to:
 
 ### Dataset
 Download the shortjokes data on Kaggle, available here : https://www.kaggle.com/datasets/abhinavmoudgil95/short-jokes
+
+### Meme template
+Download meme_template.png in the Program repositiry
